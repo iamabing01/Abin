@@ -1,6 +1,17 @@
+*{
+    font-family: 'Roboto Slab', serif;
+    background-image: url('E:\Abin\Images\background.jpg');
+}
 body{
     margin: 0;
-    background-image: url("../Images/background.jpg");
     background-size: 500px;
     text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+.background{
+    width: auto;
+    height: auto;
 }
